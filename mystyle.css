@@ -1,0 +1,113 @@
+.menu {
+    margin-left: 250px;
+    margin-top: 20px;
+    color:rgb(48, 32, 46);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    display:inline-block;
+    font-weight: 300;
+}
+
+.menu:hover {
+    color:darkgrey;
+}
+
+.title {
+    margin-left: 500px;
+    width:800px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    margin-top: 100px;
+    display:block;
+}
+
+.under_title{
+    color:rgb(61, 0, 53);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    display: inline-block;
+    margin-left: 615px;
+}
+
+.sub_title{
+    font-size: 30px;
+    margin-left: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+.first{
+    margin-left: 350px;
+}
+
+.image{
+    width: 1000px;
+    display:block;
+    margin: 0 auto;
+   
+}
+
+.descript{
+    width: 1000px;
+    display: block;
+    margin:50 auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+
+}
+
+
+header{
+    position:sticky;
+    top:0;
+    background-color: rgb(255, 226, 231);
+}
+
+.subscribe{
+    padding: 10px;
+    width: 150px;
+}
+
+.subscribe input{
+    width: 200px;
+    padding: 10px;
+}
+
+.subscribe button{
+    background-color: rgb(227, 197, 210);
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.subscribe button:hover{
+    color: grey;
+}
+
+.review{
+    margin-top: 50px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.rating{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.star{
+    color: rgb(255, 232, 141);
+}
+
+input[type="text"], select , textarea{
+    width:100%;
+    padding: 12px;
+    border: 1px solid black;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
